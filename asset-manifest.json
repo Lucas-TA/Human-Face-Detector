@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Lucas-TA/new-face-frontend/static/css/main.e5db5a1c.css",
-    "main.js": "/Lucas-TA/new-face-frontend/static/js/main.42a95f70.js",
-    "static/js/787.78311798.chunk.js": "/Lucas-TA/new-face-frontend/static/js/787.78311798.chunk.js",
-    "index.html": "/Lucas-TA/new-face-frontend/index.html",
-    "main.e5db5a1c.css.map": "/Lucas-TA/new-face-frontend/static/css/main.e5db5a1c.css.map",
-    "main.42a95f70.js.map": "/Lucas-TA/new-face-frontend/static/js/main.42a95f70.js.map",
-    "787.78311798.chunk.js.map": "/Lucas-TA/new-face-frontend/static/js/787.78311798.chunk.js.map"
+    "main.css": "/static/css/main.e5db5a1c.css",
+    "main.js": "/static/js/main.cf0e784a.js",
+    "static/js/787.78311798.chunk.js": "/static/js/787.78311798.chunk.js",
+    "index.html": "/index.html",
+    "main.e5db5a1c.css.map": "/static/css/main.e5db5a1c.css.map",
+    "main.cf0e784a.js.map": "/static/js/main.cf0e784a.js.map",
+    "787.78311798.chunk.js.map": "/static/js/787.78311798.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5db5a1c.css",
-    "static/js/main.42a95f70.js"
+    "static/js/main.cf0e784a.js"
   ]
 }
